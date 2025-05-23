@@ -63,7 +63,7 @@ npm run dev
 
 ---
 
-## 👷 Made with ❤️ by [Aman Sheikh](https://my-3-d-portfolio-kappa.vercel.app/)
+👷 Made with ❤️ by [Aman Sheikh](https://my-3-d-portfolio-kappa.vercel.app/)
 
 [![Email](https://img.shields.io/badge/Email-haarishsheikh04@gmail.com-blue?style=flat-square&logo=gmail)](mailto:haarishsheikh04@gmail.com)  
 🌐 [Portfolio Website](https://my-3-d-portfolio-kappa.vercel.app/)
