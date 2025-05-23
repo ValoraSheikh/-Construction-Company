@@ -18,24 +18,24 @@ It showcases services, team members, stunning projects, and happy client testimo
 
 > We love working with modern tools — fast, simple, and fun!
 
-- ⚛️ **React.js** – For building dynamic UIs
-- 🎨 **Tailwind CSS** – For stylish, utility-first styling
-- 🔀 **React Router v6** – For clean navigation
-- 🧠 **Zustand** – State management made bearable
-- ☁️ **Appwrite** – Powerful backend (DB + Storage)
+- ⚛️ **React.js** – For building dynamic UIs  
+- 🎨 **Tailwind CSS** – For stylish, utility-first styling  
+- 🔀 **React Router v6** – For clean navigation  
+- 🧠 **Zustand** – State management made bearable  
+- ☁️ **Appwrite** – Powerful backend (DB & Storage)  
 
 ---
 
 ## 🧩 Features
 
 | 💡 Feature         | 🚀 Description                                           |
-|-------------------|----------------------------------------------------------|
-| 🛠️ Services       | Clean listing of what we build and fix                   |
-| 🖼️ Project Gallery| High-quality images of recent work                       |
-| 👷 Team Section   | Faces behind the bricks and code                         |
-| 💬 Testimonials   | Kind words from kind clients                             |
-| 📬 Contact Form   | Let’s talk – leads land in Appwrite                      |
-| 🔐 Admin Panel    | Manage the content (for internal use only)              |
+|--------------------|----------------------------------------------------------|
+| 🛠️ Services        | Clean listing of what we build and fix                   |
+| 🖼️ Project Gallery | High-quality images of recent work                       |
+| 👷 Team Section    | Faces behind the bricks and code                         |
+| 💬 Testimonials    | Kind words from kind clients                             |
+| 📬 Contact Form    | Let’s talk – leads land in Appwrite                      |
+| 🔐 Admin Panel     | Manage the content (for internal use only)               |
 
 ---
 
@@ -61,11 +61,3 @@ npm install
 npm run dev
 
 
----
-
-👷 Made with ❤️ by [Aman Sheikh](https://my-3-d-portfolio-kappa.vercel.app/)
-
-[![Email](https://img.shields.io/badge/Email-haarishsheikh04@gmail.com-blue?style=flat-square&logo=gmail)](mailto:haarishsheikh04@gmail.com)  
-🌐 [Portfolio Website](https://my-3-d-portfolio-kappa.vercel.app/)
-
-> Let's build something amazing — online and offline 🏗️✨
