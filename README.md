@@ -45,6 +45,15 @@ The site will be live on **[Vercel](https://vercel.com)** – hosted with love a
 
 ---
 
+## 👷 Made with ❤️ by [Aman Sheikh](https://my-3-d-portfolio-kappa.vercel.app/)
+
+[![Email](https://img.shields.io/badge/Email-haarishsheikh04@gmail.com-blue?style=flat-square&logo=gmail)](mailto:haarishsheikh04@gmail.com)  
+🌐 [Portfolio Website](https://my-3-d-portfolio-kappa.vercel.app/)
+
+> Let's build something amazing — online and offline 🏗️✨
+
+---
+
 ## 🧪 Quick Start
 
 ```bash
@@ -60,4 +69,6 @@ npm install
 # 4. Start the dev server
 npm run dev
 
+
+---
 
